@@ -1,0 +1,15 @@
+{
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "terminal.explorerKind": "external",
+    "[python]": {
+        "editor.wordBasedSuggestions": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "python.pythonPath": "${workspaceFolder}/api/env/bin/python",
+
+}
